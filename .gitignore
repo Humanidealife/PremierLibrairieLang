@@ -1,0 +1,18 @@
+
+# Dossiers à ignorer
+/bin/
+/build/
+/dist/
+/nbproject/private/
+/target/
+/.idea/
+
+# Fichiers à ignorer
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.iml
+*.ipr
+*.iws
